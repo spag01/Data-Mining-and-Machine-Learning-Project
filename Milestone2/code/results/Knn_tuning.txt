@@ -1,0 +1,21 @@
+Hyperparameters,Mean F1 Score,Mean F1 Score on 'deceased',Mean Accuracy
+"{'weights': 'uniform', 'n_neighbors': 7, 'metric': 'euclidean'}",0.7489870191563787,0.5887929887961427,0.7677166344398201
+"{'weights': 'distance', 'n_neighbors': 11, 'metric': 'euclidean'}",0.7496667282580078,0.601662571543194,0.7690761827442824
+"{'weights': 'uniform', 'n_neighbors': 5, 'metric': 'minkowski'}",0.7593270255537806,0.6070057276114651,0.7743626784597278
+"{'weights': 'distance', 'n_neighbors': 7, 'metric': 'manhattan'}",0.7528019308197906,0.5952869362534884,0.7712159186045554
+"{'weights': 'distance', 'n_neighbors': 9, 'metric': 'euclidean'}",0.7456356591787718,0.5902384262916447,0.7660804137458116
+"{'weights': 'uniform', 'n_neighbors': 11, 'metric': 'minkowski'}",0.7440602968040315,0.5922568540048838,0.7644440409486923
+"{'weights': 'distance', 'n_neighbors': 7, 'metric': 'minkowski'}",0.7519844600085687,0.5938176010676016,0.7703599900372462
+"{'weights': 'uniform', 'n_neighbors': 9, 'metric': 'euclidean'}",0.7413831798145527,0.5831120406027016,0.7624552705946027
+"{'weights': 'distance', 'n_neighbors': 5, 'metric': 'manhattan'}",0.7622640559289393,0.6121373255306095,0.7770815057193939
+"{'weights': 'distance', 'n_neighbors': 11, 'metric': 'manhattan'}",0.7508336367641384,0.6031711071598019,0.7702845437255249
+"{'weights': 'uniform', 'n_neighbors': 7, 'metric': 'minkowski'}",0.7489870191563787,0.5887929887961427,0.7677166344398201
+"{'weights': 'distance', 'n_neighbors': 7, 'metric': 'euclidean'}",0.7519844600085687,0.5938176010676016,0.7703599900372462
+"{'weights': 'uniform', 'n_neighbors': 11, 'metric': 'manhattan'}",0.7453821530642804,0.5936870063026198,0.7658034276435995
+"{'weights': 'distance', 'n_neighbors': 11, 'metric': 'minkowski'}",0.7496667282580078,0.601662571543194,0.7690761827442824
+"{'weights': 'distance', 'n_neighbors': 5, 'metric': 'minkowski'}",0.7610566629045921,0.6103280982426487,0.7759234813613481
+"{'weights': 'uniform', 'n_neighbors': 5, 'metric': 'manhattan'}",0.7604224515660418,0.6087363442816043,0.7754703376752434
+"{'weights': 'distance', 'n_neighbors': 9, 'metric': 'manhattan'}",0.7466619098299275,0.592060118484137,0.7671125537668652
+"{'weights': 'uniform', 'n_neighbors': 7, 'metric': 'manhattan'}",0.7505245485651013,0.5911617219801096,0.769277427834996
+"{'weights': 'uniform', 'n_neighbors': 9, 'metric': 'minkowski'}",0.7413831798145527,0.5831120406027016,0.7624552705946027
+"{'weights': 'uniform', 'n_neighbors': 5, 'metric': 'euclidean'}",0.7593270255537806,0.6070057276114651,0.7743626784597278
